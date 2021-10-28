@@ -2,5 +2,4 @@
 
 ## a minimalist dark [color theme](https://marketplace.visualstudio.com/items?itemName=domrally.douse) for visual studio code
 
-
-<img width="799" alt="Screen Shot 2021-10-28 at 1 00 55 AM" src="https://user-images.githubusercontent.com/10066435/139286799-dbbb08b2-dd32-457b-9ed5-38815af8b258.png">
+<img width="1087" alt="Screen Shot 2021-10-28 at 8 48 03 AM" src="https://user-images.githubusercontent.com/10066435/139290916-f86e9eab-7e69-4378-90b4-4c7b2c21f175.png">
