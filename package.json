@@ -1,0 +1,36 @@
+{
+    "name": "douse",
+    "displayName": "douse theme",
+    "description": "a minimalist dark color theme",
+    "version": "0.0.1",
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "icon": "icon.png",
+    "author": {
+        "name": "Dom Mandy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/domrally/douse.git"
+    },
+    "engines": {
+        "vscode": "^1.61.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "douse",
+        "dark",
+        "color",
+        "theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "douse",
+                "uiTheme": "vs-dark",
+                "path": "./themes/douse-color-theme.json"
+            }
+        ]
+    }
+}
