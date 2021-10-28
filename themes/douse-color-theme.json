@@ -5,14 +5,15 @@
 	"colors": {
 		"editor.background": "#111",
 		"editor.foreground": "#0bf",
-		"editorLineNumber.activeForeground": "#0bf",
 		"editorLineNumber.foreground": "#777",
+		"editorLineNumber.activeForeground": "#0bf",
 	},
 	"tokenColors": [
 		{
 			"scope": [
-                "entity.name.function",
-                "support.function"
+                "support.type",
+                "support.function",
+                "entity.name.function"
             ],
 			"settings": {
 				"foreground": "#0bf"
